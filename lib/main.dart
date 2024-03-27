@@ -83,7 +83,7 @@ TextEditingController weightTEC = TextEditingController(); // text editing contr
   bool isVisible =false ;
 
   
-  //Colors:
+  //Colors :
   Color male_Color = const Color.fromARGB(255, 6, 124, 234);
   Color female_color = const Color.fromARGB(255, 209, 23, 138);
   Color container_Colors =const Color.fromARGB(255, 151, 138, 179);// the main theem of the application
